@@ -1,3 +1,6 @@
+# package directories
 node_modules
-bin
-.git
+jspm_packages
+
+# Serverless directories
+.serverless

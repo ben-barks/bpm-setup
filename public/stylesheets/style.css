@@ -10,3 +10,7 @@ a {
 .top-menu-item{
   padding-right: 0.5rem;
 }
+
+.nav {
+  display: block;
+}
